@@ -1,25 +1,48 @@
-- 👋 Hi, I’m rajat
-- 👀 I’m interested in cybersec, web3, networks and electronics
-- 🌱 I’m currently learning about 5G networks
-- 💞️ I’m looking to collaborate on cybersecurity projects
-- 😄 Pronouns: he/him
-- ⚡ Avid fiction fanatic and chess player
+# 👋 Hi, I’m Rajat!
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=schizzler&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=schizzler&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=schizzler&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=schizzler&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=schizzler&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎓 **Engineering Student**  
+💻 **Passionate about technology, coding, and building real-world solutions.**  
+🌍 **Always curious to learn, collaborate, and innovate.**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=schizzler&icon=6&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 About Me
 
---->
+- 💡 I’m an engineering student eager to explore the world of software and hardware.
+- 🧑‍💻 I work with a diverse set of technologies:
+  - **Languages:** Python, C
+  - **Frameworks:** Flask, .NET, Angular
+  - **Special Interests:** 5G, Microcontrollers, Embedded Systems
+- 🔬 I love experimenting with new tech, from web apps to IoT devices.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced backend with **Flask** and **.NET**
+- Modern web development with **Angular**
+- Wireless and embedded systems, especially **5G** and **microcontrollers**
+
+---
+
+## 🤝 Connect & Collaborate
+
+I’m looking to meet fellow tech enthusiasts, contribute to open-source, and work on exciting projects.
+
+- 💡 Let’s connect and create something awesome together!
+      LinkedIn- https://www.linkedin.com/in/rajat-atgur-822a8a308/
+---
+
+## 📈 GitHub Stats
+
+![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raj-atg&show_icons=true&theme=radical)
+
+---
+
+## ⚡ Fun Fact
+
+> "The best way to predict the future is to invent it." – Alan Kay
+
+---
+
+*Feel free to check out my repositories and drop a star or suggestion!* 🌟
