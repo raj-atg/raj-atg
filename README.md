@@ -14,6 +14,7 @@
   - **Frameworks:** Flask, .NET, Angular
   - **Special Interests:** 5G, Microcontrollers, Embedded Systems
 - 🔬 I love experimenting with new tech, from web apps to IoT devices.
+- Highly inquisitive about blockchain and cybersec too!
 
 ---
 
@@ -31,12 +32,6 @@ I’m looking to meet fellow tech enthusiasts, contribute to open-source, and wo
 
 - 💡 Let’s connect and create something awesome together!
       LinkedIn- https://www.linkedin.com/in/rajat-atgur-822a8a308/
----
-
-## 📈 GitHub Stats
-
-![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raj-atg&show_icons=true&theme=radical)
-
 ---
 
 ## ⚡ Fun Fact
