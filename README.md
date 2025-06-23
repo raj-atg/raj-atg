@@ -31,7 +31,7 @@
 I’m looking to meet fellow tech enthusiasts, contribute to open-source, and work on exciting projects.
 
 - 💡 Let’s connect and create something awesome together!
-      LinkedIn- https://www.linkedin.com/in/rajat-atgur-822a8a308/
+      LinkedIn- (https://www.linkedin.com/in/rajat-a-822a8a308/)
 ---
 
 ## ⚡ Fun Fact
